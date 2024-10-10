@@ -51,7 +51,7 @@
 
 ## 1. 개발 환경
 
-- Front : HTML, React, TypeScript, Axios
+- Front : React, TypeScript, Axios
 - Back-end : Java, Spring Boot, MariaDB, Tour API 활용
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 : Discord, Notion
