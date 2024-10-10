@@ -74,7 +74,7 @@
 
 ## 3. 역할 분담
 
-### Front-End
+### **Front-End**
 
 ### **Back-End**
 
